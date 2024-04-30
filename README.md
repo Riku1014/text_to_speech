@@ -14,7 +14,7 @@ pip (Python package manager)
 
 Installation
 Clone this repository to your local machine:
-git clone https://github.com/your-username/text-to-speech.git
+git clone https://github.com/Riku1014/text-to-speech.git
 Navigate to the project directory:
 cd text-to-speech
 Install the required dependencies using pip:
